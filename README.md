@@ -2,7 +2,7 @@
 - 👀 Eu estou interessado em contruir uma carreira com programação.
 - 🌱 Eu estou aprendendo a programar, a cada dia dou um novo passo.
 - 💞️ Procuro colaborar em uma grande empresa. 
-- 📫 Como chegar até mim, podem me encontrar no instagram: Maykon.a.f, ou no twitter: @MaykonMaykn
+- 📫 Como chegar até mim, podem me encontrar no instagram: Maykon.a.f.
 
 
 <!---
